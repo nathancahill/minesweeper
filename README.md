@@ -1,1 +1,1 @@
-# mapgrid-svelte-tailwind
+# Minesweeper
