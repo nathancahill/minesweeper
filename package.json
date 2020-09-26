@@ -10,7 +10,7 @@
         "@rollup/plugin-commonjs": "^14.0.0",
         "@rollup/plugin-node-resolve": "^8.4.0",
         "autoprefixer": "^9.8.6",
-        "eslint": "^7.6.0",
+        "eslint": "^7.10.0",
         "eslint-config-airbnb-base": "^14.2.0",
         "eslint-config-prettier": "^6.11.0",
         "eslint-plugin-import": "^2.22.0",
